@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python test_double_counting_fix.py:*)",
+      "Bash(python test_ranking_fix.py:*)",
+      "Bash(python test_blended_score_calculation.py:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
