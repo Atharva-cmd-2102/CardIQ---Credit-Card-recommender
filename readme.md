@@ -117,9 +117,17 @@ FINANCIAL SUMMARY:
   • Annual Fee: $325.00
 
 HOW TO MAXIMIZE:
-  ✓ Use for all dining purchases to earn 4x points
-  ✓ Maximize the $120 Uber Cash credit monthly
-  ...
+  ✓ Use this card exclusively for all grocery shopping to earn 3% cash back on your largest spending category
+  ✓ Fill up with gas using this card to maximize the 3% rate on your second-highest expense
+  ✓ Take advantage of the $7 monthly Disney+ credit if you subscribe to any Disney streaming services
+  ✓ Consider the $15 monthly Home Chef credit if you're interested in meal kits - could save $180/year
+  ✓ Use the 3% 'other' category rate for miscellaneous purchases that don't fit other bonus categories
+
+WATCH OUT FOR:
+  ⚠  American Express isn't accepted everywhere - some smaller grocery stores and gas stations may not take it
+  ⚠  No foreign transaction fee information provided - verify before international purchases
+  ⚠  The 3% 'other' category may have spending caps or restrictions not clearly specified
+  
 ```
 
 ---
@@ -261,31 +269,13 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ## 👥 Authors
 
-- **Anish Wadkar** - [GitHub](https://github.com/YOUR_GITHUB)
-- **Atharva Parab** - [GitHub](https://github.com/YOUR_GITHUB)
-- **Anish Nair** - [GitHub](https://github.com/YOUR_GITHUB)
-
+- **Anish Wadkar** 
+- **Atharva Parab** 
+- **Anish Nair** 
 ---
 
-## 🙏 Acknowledgments
 
-- Indiana University Luddy School of Informatics
-- Introduction to LLMs Course Staff
-- Anthropic for Claude API access
 
----
-
-## 📧 Contact
-
-For questions or collaboration: [your.email@example.com]
-
----
-
-## ⭐ Star This Repo
-
-If you found this project helpful, please consider giving it a star!
-
----
 
 **Built with ❤️ at Indiana University**
 ```
